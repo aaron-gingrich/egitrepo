@@ -5,6 +5,7 @@ public class HellloWorld {
 		// TODO Auto-generated method stub
 		System.out.println("Hello World");
 		System.out.println("New Line has been added");
+		System.out.println("This is new feature addition");
 	}
 
 }
